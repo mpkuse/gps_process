@@ -5,7 +5,7 @@
 
   </description>
   <author>Manohar Kuse</author>
-  <license>Hong Kong License</license>
+  <license>China License</license>
   <review status="unreviewed" notes=""/>
   <url>http://ros.org/wiki/gps_process</url>
   <depend package="roscpp"/>
