@@ -4,8 +4,8 @@
      gps_process
 
   </description>
-  <author>Manohar Kuse</author>
-  <license>China License</license>
+  <author>Shaojie Shen</author>
+  <license>H China License</license>
   <review status="unreviewed" notes=""/>
   <url>http://ros.org/wiki/gps_process</url>
   <depend package="roscpp"/>
