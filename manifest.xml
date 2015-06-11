@@ -5,7 +5,7 @@
 
   </description>
   <author>Shaojie Shen</author>
-  <license>MIT License</license>
+  <license>Berkley License</license>
   <review status="unreviewed" notes=""/>
   <url>http://ros.org/wiki/gps_process</url>
   <depend package="roscpp"/>
